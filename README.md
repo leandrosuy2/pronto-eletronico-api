@@ -33,8 +33,8 @@ Antes de começar, verifique se você tem as seguintes dependências instaladas 
    Se você ainda não clonou o repositório, execute o seguinte comando no terminal:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd ponto-eletronico
+   git clone https://github.com/leandrosuy2/pronto-eletronico-api
+   cd pronto-eletronico-api
    ```
 
 2. **Instale as dependências**:
